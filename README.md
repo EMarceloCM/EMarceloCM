@@ -1,5 +1,5 @@
 ### Hi there 👋
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
 ## About me
 
@@ -10,7 +10,7 @@
 
 <body>
        <i class="devicon-cplusplus-line-wordmark colored"></i>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </body>
 
 C, C++, C#, Java, SQL, PHP, Unity and .NET Framework
