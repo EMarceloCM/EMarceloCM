@@ -6,7 +6,8 @@
 ## About me
 
 - Back-end developer and student
-- Current working on ```https://labcinco.com/``` 
+- Current working at ```https://labcinco.com/```
+- Current studying advanced C#
 - Hobbys: Coding, gaming, work out, anime and music
 
 ## Skills
