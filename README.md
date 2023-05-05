@@ -9,7 +9,8 @@
 ## Skills
 
 <body>
-            <i class="devicon-cplusplus-line-wordmark colored"></i>
+       <i class="devicon-cplusplus-line-wordmark colored"></i>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </body>
 
 C, C++, C#, Java, SQL, PHP, Unity and .NET Framework
