@@ -4,7 +4,7 @@
 About me
 
 - Back-end developer and student
-- Hobbys: Coding, gaming, anime and music
+- Hobbys: Coding, gaming, work out, anime and music
 
 Skills
 
