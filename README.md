@@ -4,7 +4,7 @@
 ## About me
 
 - Back-end developer and student
-- Current working on ``` https://labcinco.com/ 
+- Current working on ```https://labcinco.com/``` 
 - Hobbys: Coding, gaming, work out, anime and music
 
 ## Skills
