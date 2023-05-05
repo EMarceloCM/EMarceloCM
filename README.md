@@ -9,3 +9,4 @@ About me
 Skills
 
 C, C++, C#, Java, SQL, PHP, Unity and .NET Framework
+https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg
