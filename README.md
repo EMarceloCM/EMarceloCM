@@ -7,7 +7,7 @@
 
 - Back-end developer and student
 - Current working at ```https://labcinco.com/```
-- Current studying advanced C#
+- Current studying advanced C#.NET
 - Hobbys: Coding, gaming, work out, anime and music
 
 ## Skills
