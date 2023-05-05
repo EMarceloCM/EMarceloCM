@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/> 
 
 ## About me
 
@@ -8,8 +8,8 @@
 
 ## Skills
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/> 
+<body>
             <i class="devicon-cplusplus-line-wordmark colored"></i>
-
+</body>
 
 C, C++, C#, Java, SQL, PHP, Unity and .NET Framework
