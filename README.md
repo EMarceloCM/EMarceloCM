@@ -20,5 +20,5 @@
 <div>
 <a href="https://github.com/EMarceloCM">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" style="width: 410px;"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 430px;"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 450px;"/>
 </div>
