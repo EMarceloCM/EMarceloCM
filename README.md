@@ -17,7 +17,7 @@
 </br></br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> </p>
   
-<div>
+<div style="position: absolute;">
 <a href="https://github.com/EMarceloCM">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" style="width: 400px;"/>
 <img height="197em" src="https://github-readme-stats.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 440px;"/>
