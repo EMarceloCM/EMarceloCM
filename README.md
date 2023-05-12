@@ -6,7 +6,7 @@
 ## About me
 
 - Back-end developer and student
-- Current working at ```<a href="https://labcinco.com/">https://labcinco.com/</a>```
+- Current working at <a href="https://labcinco.com/">```https://labcinco.com/```</a>
 - Current studying advanced C#.NET
 - Hobbys: Coding, gaming, work out, anime and music
 
@@ -19,6 +19,6 @@
   
 <div style="position: absolute;">
 <a href="https://github.com/EMarceloCM">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" style="width: 405px;"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 435px;"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" style="width: 404px;"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 436px;"/>
 </div>
