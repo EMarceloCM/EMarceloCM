@@ -2,14 +2,11 @@
 <head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><head>
 
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
-.link-vermelho {
-  color: red;
-}
 
 ## About me
 
 - Back-end developer and student
-- Current working at <a href="https://labcinco.com/" class="link-vermelho">labcinco</a>
+- Current working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
 - Current studying advanced C#.NET
 - Hobbys: Coding, gaming, work out, anime and music
 
