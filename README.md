@@ -27,7 +27,7 @@
 </br>
 
 ## Profile Info's
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> ![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)</p>
   
 <div style="position: absolute;">
 <a href="https://github.com/EMarceloCM">
