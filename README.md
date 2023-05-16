@@ -9,8 +9,8 @@
 ## About me
 
 - Back-end developer and student
-- Current working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
-- Current studying advanced C#.NET
+- Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
+- Currently studying advanced C#.NET
 - Hobbys: Coding, gaming, work out, anime and music
 
 ## Skills
