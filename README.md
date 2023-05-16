@@ -6,7 +6,7 @@
 
 <!--<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>-->
 <a href="#"><img align="right" src="https://camo.githubusercontent.com/18ae9809d7ae8a378be4c3701b7fd4cbb427619a66f72398bda0dbde21e148a8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f39423877597a74416f65317a4f2f736f757263652e676966" width="350 " height="200" /></a>
-## <h1>About me</h1>
+## <h2>About me</h2>
 
 - Back-end developer and student
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
