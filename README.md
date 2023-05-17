@@ -8,12 +8,12 @@
 <a href="#"><img align="right" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="300" height="250" /></a>
 <h1>About me</h1>
 
-- Back-end developer and student
+<h2>- Back-end developer and student
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
 - Currently studying advanced C#.NET
-- Hobbys: Coding, gaming, work out, anime and music
+- Hobbys: Coding, gaming, work out, anime and music</h2>
 
-<h1>Skills</h1>
+## <h1>Skills</h1>
 <table border="1px"> <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="44"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="43" height="43"/></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45"/></td> </tr></table>
