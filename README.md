@@ -8,10 +8,10 @@
 <a href="#"><img align="right" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="300" height="250" /></a>
 <h1>About me</h1>
 
-<h3>- Back-end developer and student
-- Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
-- Currently studying advanced C#.NET
-- Hobbys: Coding, gaming, work out, anime and music</h3>
+<h3>- Back-end developer and student <br>
+- Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a> <br>
+- Currently studying advanced C#.NET <br>
+- Hobbys: Coding, gaming, work out, anime and music<br></h3>
 
 ## <h1>Skills</h1>
 <table border="1px"> <tr>
