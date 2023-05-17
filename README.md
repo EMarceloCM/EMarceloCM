@@ -26,7 +26,7 @@
 </br>
 
 ## Profile Info's
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> [![Status](https://img.shields.io/website-up-down-green-red/https/https://github.com/EMarceloCM.com.svg)](https://github.com/EMarceloCM.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> [![Status](https://img.shields.io/website-up-down-green-red/https/github.com/EMarceloCM.com.svg)](https://github.com/EMarceloCM.com)
 </p>
   
 <div style="position: absolute;">
