@@ -1,12 +1,12 @@
 ### <!--<h1 align="center">Hi there, what's up? <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1> -->
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=340&lines=Hello+World!;My+name+is+Marcelo,+I'm+21y;Welcome+to+my+README" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=340&lines=Hello+World!;My+name+is+Marcelo,+I'm+21y;Welcome+to+my+Profile" alt="Typing SVG" /></a>
 </h1>
 <head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><head>
 
 <!--<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>--><!--https://camo.githubusercontent.com/18ae9809d7ae8a378be4c3701b7fd4cbb427619a66f72398bda0dbde21e148a8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f39423877597a74416f65317a4f2f736f757263652e676966-->
 <a href="#"><img align="right" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="300" height="250" /></a>
-## About me
+## <h3>About me</h3>
 
 - Back-end developer and student
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
