@@ -8,20 +8,20 @@
 <a href="#"><img align="right" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="300" height="250" /></a>
 <h1>About me</h1>
 
-<h3>- Back-end developer and student <br>
-- Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a> <br>
-- Currently studying advanced C#.NET <br>
-- Hobbys: Coding, gaming, work out, anime and music<br></h3>
+- Back-end developer and student
+- Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
+- Currently studying advanced C#.NET
+- Hobbys: Coding, gaming, work out, anime and music
 
 ## <h1>Skills</h1>
 <table border="1px"> <tr>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="44"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" width="43" height="43"/></td>
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" height="45"/></td> </tr></table>
 
-## Want to Learn
+## <h1>Want to Learn</h1>
 <table border="1px"><tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></td> <td><i class="devicon-go-original-wordmark colored"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40"/></i></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" width="40" height="40"/></td> <i class="devicon-coffeescript-original-wordmark"> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original-wordmark.svg" width="40" height="40"/></i></td> </tr></table>
 
-## Tools
+## <h1>Tools</h1>
 <table border="1px"><tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/></td> <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></td> <td><i class="devicon-github-original"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></i></td> <td><i style="background-color: #000000 !important; opacity: 0.8; display: inline-block;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/> </i></td> </tr></table>
 </br>
