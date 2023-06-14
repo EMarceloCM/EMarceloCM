@@ -10,7 +10,7 @@
 
 - Back-end developer and student
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
-- Currently studying advanced .NET MAUI
+- Currently studying .NET MAUI
 - Hobbys: Coding, gaming, work out, anime and music
 </br>
 
