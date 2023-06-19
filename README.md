@@ -1,6 +1,6 @@
 ### <!--<h1 align="center">Hi there, what's up? <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1> -->
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=340&lines=Hello+World!;My+name+is+Marcelo,+I'm+21y;Welcome+to+my+Profile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=340&lines=Hello+World!;Welcome+to+my+Profile" alt="Typing SVG" /></a>
 </h1>
 <head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><head>
 
