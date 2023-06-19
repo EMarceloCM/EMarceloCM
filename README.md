@@ -26,6 +26,8 @@
 <table border="1px"><tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/></td> <td><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/</td> <td><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></td> <td><img src="https://skillicons.dev/icons?i=unity" width="40" height="40"/></td> </tr></table>
 </br>
 
+<img align="right" src="https://camo.githubusercontent.com/d4f45c6ea4c0c418627c4b7447993d45bf8fd203b30a356e735f801332e42124/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f565474414e4b6c306265444651524c4454682f67697068792e6769663f6369643d656366303565343763626b36766e33386570366e6e68303338336367726573707176726633386d78656f696462356862267269643d67697068792e6769662663743d67" width="200">
+
 ## Profile Info's
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> 
 </p>
