@@ -8,9 +8,9 @@
 <a href="#"><img align="right" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="300" height="250" /></a>
 ## About me
 
-- Back-end/Mobile developer and student
+- Back-end/Mobile developer
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
-- Currently studying .NET MAUI
+- Studying computer science
 - Hobbys: Coding, gaming, work out, anime and music
 </br>
 
