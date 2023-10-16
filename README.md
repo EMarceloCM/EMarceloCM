@@ -11,7 +11,7 @@
 - Back-end/Mobile developer
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
 - Studying computer science
-- Hobbys: Coding, gaming, work out, anime and music
+<!-- - Hobbys: Coding, gaming, work out, anime and music -->
 </br>
 
 ## Skills :brain:
