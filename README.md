@@ -8,7 +8,7 @@
 <a href="#"><img align="right" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="290" height="250" /></a>
 ## About me
 
-- Back-end developer
+- Full stack developer
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
 - Studying computer science
 <!-- - Hobbys: Coding, gaming, work out, anime and music -->
