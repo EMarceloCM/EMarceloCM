@@ -3,7 +3,7 @@
 </h1>
 <head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><head>
 
-<!--<a href="#"><img align="right" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="270" height="250" /></a>-->
+<a href="#"><img align="right" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="270" height="250" /></a>
 ## About me
 
 - Full stack developer (C# + Angular)
