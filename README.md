@@ -24,13 +24,12 @@
     <td><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/</td> <td><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></td> <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> </td> <td><img src="https://github.com/EMarceloCM/EMarceloCM/assets/120042864/c9b93868-83ba-4c34-9986-f080547dda0e" width="40" height="40"></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></td> 
   </tr>
 </table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> </p>
 
 ## Profile Info's
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> 
-</p>
-  
+
 <div style="position: absolute;">
-<a href="https://github.com/EMarceloCM">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 430px;"/>
-</a>
+  <a href="https://github.com/EMarceloCM">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 600px;"/>
+  </a>
 </div>
