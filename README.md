@@ -9,7 +9,7 @@
 - Full stack developer
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
 - Studying computer science
-- Hobbys: I like to code games on unity and listen to classical musics
+- Hobbys: I like programming games in Unity and listening to classical music
 </br>
 
 ## Skills
