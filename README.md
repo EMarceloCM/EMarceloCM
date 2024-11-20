@@ -9,7 +9,7 @@
 - Full stack developer (C# + Angular)
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
 - Studying computer science
-- Hobbys: I like programming games in Unity and listening to classical music
+- Hobbys: I like programming games in Unity, work out and listening to classical music
 </br>
 
 ## Languages
