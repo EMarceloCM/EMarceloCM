@@ -30,6 +30,6 @@
 
 <div style="position: absolute;">
   <a href="https://github.com/EMarceloCM">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 600px;"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 100%;"/>
   </a>
 </div>
