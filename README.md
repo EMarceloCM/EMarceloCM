@@ -14,7 +14,7 @@
 
 ## Languages
 
-<img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" style="width: 360px;"/>
+<img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" style="width: 390px;"/>
 
 <table border="1px">
   <tr>
@@ -30,6 +30,6 @@
 
 <div style="position: absolute;">
   <a href="https://github.com/EMarceloCM">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 800px;"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 900px;"/>
   </a>
 </div>
