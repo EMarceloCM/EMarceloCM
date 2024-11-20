@@ -17,12 +17,13 @@
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="43"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="45" height="45" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"  width="40" height="40" /></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40"/> </td> 
   </tr>
-</table>
+</table> </br>
 
-## Tools :wrench:
-
-<table border="1px"><tr><td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/></td> <td><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/</td> <td><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></td> <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> </td> <td><img src="https://github.com/EMarceloCM/EMarceloCM/assets/120042864/c9b93868-83ba-4c34-9986-f080547dda0e" width="40" height="40"></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></td> </tr></table>
-</br>
+<table border="1px">
+  <tr> 
+    <td><img src="https://skillicons.dev/icons?i=git" width="40" height="40"/</td> <td><img src="https://skillicons.dev/icons?i=github" width="40" height="40"/></td> <td> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/> </td> <td><img src="https://github.com/EMarceloCM/EMarceloCM/assets/120042864/c9b93868-83ba-4c34-9986-f080547dda0e" width="40" height="40"></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/></td> <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></td> 
+  </tr>
+</table> </br>
 
 ## Profile Info's
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> 
@@ -31,5 +32,5 @@
 <div style="position: absolute;">
 <a href="https://github.com/EMarceloCM">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" style="width: 404px;"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 436px;"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" style="width: 430px;"/>
 </div>
