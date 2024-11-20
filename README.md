@@ -6,7 +6,7 @@
 <!--<a href="#"><img align="right" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" width="270" height="250" /></a>-->
 ## About me
 
-- Full stack developer
+- Full stack developer (C# + Angular)
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
 - Studying computer science
 - Hobbys: I like programming games in Unity and listening to classical music
