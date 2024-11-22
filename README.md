@@ -12,7 +12,7 @@
 
 ## Skills
 
-<img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" style="width: 450px;"/>
+<img align="right" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" style="width: 390px;"/>
 
 <table border="1px">
   <tr>
