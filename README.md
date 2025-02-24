@@ -8,7 +8,7 @@
 - Full stack developer (C# + Angular/Blazor)
 - Currently working at <a href="https://labcinco.com/" style="color: #000000; text-decoration: none;">labcinco</a>
 - Studying computer science
-- I like programming games in Unity, work out and listening to classical music
+- I like programming games in Unity, working out and listening to classical music
 
 ## Skills
 
