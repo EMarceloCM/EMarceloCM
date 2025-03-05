@@ -3,7 +3,7 @@
 </h1>
 <head><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><head>
 
-## Skills
+<hr>
 
 <table border="0px" align="center">
   <tr>
@@ -13,12 +13,10 @@
 </table>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=emarcelocm&label=Profile%20views&color=0e75b6&style=flat" alt="emarcelocm" /> </p>-->
 
-## Stats
-
-<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" />
+<img align="left"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EMarceloCM&layout=compact&langs_count=7&theme=blue-green&title_color=007ACC&icon_color=007ACC" />
 
 <div style="position: absolute;">
   <a href="https://github.com/EMarceloCM">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" />
+    <img align="left" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EMarceloCM&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide=contribs" />
   </a>
 </div>
